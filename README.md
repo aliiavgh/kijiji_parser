@@ -6,7 +6,7 @@
   - `date` - дата/время публикации
   - `image` - картинка объявления 
   
- Для запуска необхлдимо проделать следующие действия: 
+ Для запуска необходимо выполнить следующие действия: 
   - `git clone git@github.com:aliiavgh/kijiji_parser.git`
   - `python -m venv venv` 
   - `source venv/bin/activate`
